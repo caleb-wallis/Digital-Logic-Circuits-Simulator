@@ -1,0 +1,153 @@
+H:\COMPX102\102-2023\Circuits\Circuits\bin\Debug\Circuits.exe.config
+H:\COMPX102\102-2023\Circuits\Circuits\bin\Debug\Circuits.exe
+H:\COMPX102\102-2023\Circuits\Circuits\bin\Debug\Circuits.pdb
+H:\COMPX102\102-2023\Circuits\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+H:\COMPX102\102-2023\Circuits\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102\102-2023\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+H:\COMPX102\102-2023\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+H:\COMPX102\102-2023\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+H:\COMPX102\102-2023\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+H:\COMPX102\102-2023\Circuits\Circuits\obj\Debug\Circuits.exe
+H:\COMPX102\102-2023\Circuits\Circuits\obj\Debug\Circuits.pdb
+H:\COMPX102\102-2023\Circuits-Template-2023\Circuits\bin\Debug\Circuits.exe.config
+H:\COMPX102\102-2023\Circuits-Template-2023\Circuits\bin\Debug\Circuits.exe
+H:\COMPX102\102-2023\Circuits-Template-2023\Circuits\bin\Debug\Circuits.pdb
+H:\COMPX102\102-2023\Circuits-Template-2023\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+H:\COMPX102\102-2023\Circuits-Template-2023\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102\102-2023\Circuits-Template-2023\Circuits\obj\Debug\Circuits.Form1.resources
+H:\COMPX102\102-2023\Circuits-Template-2023\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+H:\COMPX102\102-2023\Circuits-Template-2023\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+H:\COMPX102\102-2023\Circuits-Template-2023\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+H:\COMPX102\102-2023\Circuits-Template-2023\Circuits\obj\Debug\Circuits.exe
+H:\COMPX102\102-2023\Circuits-Template-2023\Circuits\obj\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Circuits-Template-2023\Circuits\bin\Debug\Circuits.exe.config
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Circuits-Template-2023\Circuits\bin\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Circuits-Template-2023\Circuits\bin\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Circuits-Template-2023\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Circuits-Template-2023\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Circuits-Template-2023\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Circuits-Template-2023\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Circuits-Template-2023\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Circuits-Template-2023\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Circuits-Template-2023\Circuits\obj\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Circuits-Template-2023\Circuits\obj\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V2-2023\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V2-2023\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V2-2023\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V2-2023\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V2-2023\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V2-2023\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V2-2023\Circuits\obj\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V2-2023\Circuits\obj\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V2-2023\Circuits\bin\Debug\Circuits.exe.config
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V2-2023\Circuits\bin\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V2-2023\Circuits\bin\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V3-2023\Circuits\bin\Debug\Circuits.exe.config
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V3-2023\Circuits\bin\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V3-2023\Circuits\bin\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V3-2023\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V3-2023\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V3-2023\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V3-2023\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V3-2023\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V3-2023\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V3-2023\Circuits\obj\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V3-2023\Circuits\obj\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V4-2023\Circuits\bin\Debug\Circuits.exe.config
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V4-2023\Circuits\bin\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V4-2023\Circuits\bin\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V4-2023\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V4-2023\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V4-2023\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V4-2023\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V4-2023\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V4-2023\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V4-2023\Circuits\obj\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V4-2023\Circuits\obj\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V5-2023\Circuits\bin\Debug\Circuits.exe.config
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V5-2023\Circuits\bin\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V5-2023\Circuits\bin\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V5-2023\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V5-2023\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V5-2023\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V5-2023\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V5-2023\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V5-2023\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V5-2023\Circuits\obj\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V5-2023\Circuits\obj\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V6-2023\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V6-2023\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V6-2023\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V6-2023\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V6-2023\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V6-2023\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V6-2023\Circuits\obj\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V6-2023\Circuits\obj\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V6-2023\Circuits\bin\Debug\Circuits.exe.config
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V6-2023\Circuits\bin\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V6-2023\Circuits\bin\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V7-2023\Circuits\bin\Debug\Circuits.exe.config
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V7-2023\Circuits\bin\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V7-2023\Circuits\bin\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V7-2023\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V7-2023\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V7-2023\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V7-2023\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V7-2023\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V7-2023\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V7-2023\Circuits\obj\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V7-2023\Circuits\obj\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V8-2023\Circuits\bin\Debug\Circuits.exe.config
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V8-2023\Circuits\bin\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V8-2023\Circuits\bin\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V8-2023\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V8-2023\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V8-2023\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V8-2023\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V8-2023\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V8-2023\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V8-2023\Circuits\obj\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V8-2023\Circuits\obj\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V9-2023\Circuits\bin\Debug\Circuits.exe.config
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V9-2023\Circuits\bin\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V9-2023\Circuits\bin\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V9-2023\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V9-2023\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V9-2023\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V9-2023\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V9-2023\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V9-2023\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V9-2023\Circuits\obj\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V9-2023\Circuits\obj\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V10-2023\Circuits\bin\Debug\Circuits.exe.config
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V10-2023\Circuits\bin\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V10-2023\Circuits\bin\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V10-2023\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V10-2023\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V10-2023\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V10-2023\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V10-2023\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V10-2023\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V10-2023\Circuits\obj\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-V10-2023\Circuits\obj\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-Final Version-2023\Circuits\bin\Debug\Circuits.exe.config
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-Final Version-2023\Circuits\bin\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-Final Version-2023\Circuits\bin\Debug\Circuits.pdb
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-Final Version-2023\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-Final Version-2023\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-Final Version-2023\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-Final Version-2023\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-Final Version-2023\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-Final Version-2023\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-Final Version-2023\Circuits\obj\Debug\Circuits.exe
+C:\Users\Caleb\OneDrive\Windows\Documents\Uni\COMPX102\Assignments\Assignment 1\Circuits-Solution-Final Version-2023\Circuits\obj\Debug\Circuits.pdb
+C:\Users\Caleb\Documents\Uni Projects\Level 1\COMPX102\Circuits-Solution-Final Version-2023\Circuits-Solution-Final Version-2023\Circuits\bin\Debug\Circuits.exe.config
+C:\Users\Caleb\Documents\Uni Projects\Level 1\COMPX102\Circuits-Solution-Final Version-2023\Circuits-Solution-Final Version-2023\Circuits\bin\Debug\Circuits.exe
+C:\Users\Caleb\Documents\Uni Projects\Level 1\COMPX102\Circuits-Solution-Final Version-2023\Circuits-Solution-Final Version-2023\Circuits\bin\Debug\Circuits.pdb
+C:\Users\Caleb\Documents\Uni Projects\Level 1\COMPX102\Circuits-Solution-Final Version-2023\Circuits-Solution-Final Version-2023\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+C:\Users\Caleb\Documents\Uni Projects\Level 1\COMPX102\Circuits-Solution-Final Version-2023\Circuits-Solution-Final Version-2023\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\Caleb\Documents\Uni Projects\Level 1\COMPX102\Circuits-Solution-Final Version-2023\Circuits-Solution-Final Version-2023\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\Caleb\Documents\Uni Projects\Level 1\COMPX102\Circuits-Solution-Final Version-2023\Circuits-Solution-Final Version-2023\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\Caleb\Documents\Uni Projects\Level 1\COMPX102\Circuits-Solution-Final Version-2023\Circuits-Solution-Final Version-2023\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\Documents\Uni Projects\Level 1\COMPX102\Circuits-Solution-Final Version-2023\Circuits-Solution-Final Version-2023\Circuits\obj\Debug\Circuits.exe
+C:\Users\Caleb\Documents\Uni Projects\Level 1\COMPX102\Circuits-Solution-Final Version-2023\Circuits-Solution-Final Version-2023\Circuits\obj\Debug\Circuits.pdb
